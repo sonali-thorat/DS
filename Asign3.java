@@ -52,7 +52,9 @@ public class Asign3 {
   
  /* parthsetup -  in terminal -export MPJ_HOME =path
                               - export PATH =$MPJ_HOME/bin:$PATH
-							  
+			     in window -system variable =  MPJ_HOME -path of mpj
+                            in path = %MPJ_HOME%\bin
+                            cmd -echo %MPJ_HOME%			  
 							  
   how to run -
    in window - javac -cp .;C:\Users\cnd21\Downloads\mpj-v0_44\mpj-v0_44\lib\mpj.jar Asign3.java
