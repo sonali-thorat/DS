@@ -1,0 +1,9 @@
+package corba-hello;
+module HelloApp {
+    interface Hello {
+        string sayHello();
+    };
+};
+
+
+
